@@ -1,0 +1,8 @@
+/*
+ * Will Walker
+ * University of Colorado Boulder
+ * Creation Date:  Friday, September 20th 2019, 4:32:28 pm
+ * File: lab3_link.txt
+ */
+
+https://github.com/wiwa5607/lab_3
